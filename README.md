@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m William Palacek
 
-🎓 Currently in grade 11
+I'm High school student located Ottawa. I'm interested in computer science, engineering and artificial intellegence.
 
-🌎 Living in Ontario
+**🎓 Currently in grade 11
+
+**🌎 Living in Ontario
