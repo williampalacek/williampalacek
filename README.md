@@ -6,4 +6,4 @@ I'm High school student located Ottawa. I'm interested in computer science, engi
 
 **📨 Email:** William.palacek@gmail.com
 
-**🛰️ Linkedin:** https://www.linkedin.com/in/william-palacek-01298613a
+**🛰️ Linkedin:** www.linkedin.com/in/williampalacek
