@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m William Palacek
 
-I'm High school student located Ottawa. I'm interested in computer science, engineering and artificial intellegence.
+I'm High school student located Ottawa. I'm interested in computer science, engineering and machine learning.
 
-**🎓 Currently in grade 11**
+**🎧 Discord:* Williampalacek#5013*
 
-**🌎 Living in Ontario**
+**📨 Email:** William.palacek@gmail.com
