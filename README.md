@@ -2,7 +2,7 @@
 
 I'm High school student located Ottawa. I'm interested in computer science, engineering and robotics.
 
-**🎧 Discord:** Williampalacek#5013
+**🎧 Discord:** Willp#8189
 
 **📨 Email:** William.palacek@gmail.com
 
