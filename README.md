@@ -1,8 +1,7 @@
-### 👋 Hi, I’m William Palacek
+# Hi there, I'm Will Palacek 👋
 
-I'm High school student located Ottawa. I'm interested in computer science, engineering and robotics.
-
-**🎧 Discord:** Willp#8189
+## 👨‍💻 About Me
+I'm a Computer Engineering student at Queen's University in Kingston.
 
 **📨 Email:** William.palacek@gmail.com
 
