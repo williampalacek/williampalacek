@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Will
 
 **Computer Engineering Student · Queen's University**  
-Member of [aQuatonomous ASV Design Team](https://aquatonomous.ca)
+Ex Co-captain of [aQuatonomous ASV Design Team](https://aquatonomous.ca)
 
 ---
 
