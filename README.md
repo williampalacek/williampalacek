@@ -1,8 +1,13 @@
-# Hi there, I'm Will Palacek 👋
+# 👋 Hi! I'm Will
 
-## 👨‍💻 About Me
-I'm a Computer Engineering student at Queen's University in Kingston.
+**Computer Engineering Student · Queen's University**  
+Member of [aQuatonomous ASV Design Team](https://aquatonomous.ca)
 
-**📨 Email:** William.palacek@gmail.com
+---
 
-**🛰️ Linkedin:** www.linkedin.com/in/williampalacek
+🌊 **Autonomous Outdoor Robotics** – Building systems for environmental sensing and exploration  
+🦾 **Human-Technology Interaction** – Creating interfaces and prosthetic technologies that connect people and machines
+
+---
+
+📫 **Reach me:** [will.palacek@queensu.ca](mailto:will.palacek@queensu.ca) · [LinkedIn](https://linkedin.com/in/williampalacek)
